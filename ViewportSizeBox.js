@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        lbs-viewport-size-box
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/selplacei
 // @match       https://littlebigsnake.com/*
 // @grant       none
 // @version     1.0
