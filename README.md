@@ -1,6 +1,6 @@
 # lbs-viewport-size-box
 
-![Screenshot of the small black box in the bottom right](https://github.com/selplacei/lbs-viewport-size-box/blob/master/screenshot.jpg?raw=true)
+![Screenshot of the small black box in the bottom right](https://github.com/selplacei/lbs-viewport-size-box/raw/master/screenshot.png)
 
 ## Installation
 Install [Violentmonkey](https://violentmonkey.github.io/). Go to the dashboard (click on the icon in your toolbar, then the gear), click the + at the top left, choose "Install from URL", and paste the following: https://raw.githubusercontent.com/selplacei/lbs-viewport-size-box/master/ViewportSizeBox.js
